@@ -1,0 +1,22 @@
+.section5 {
+    
+    
+    width: 190rem;
+    margin: auto;
+
+    display: grid;
+    grid-template-rows: 85rem 0rem;
+    gap: 1px;
+}
+
+
+.section5 div {
+    border: solid black;
+    border-radius: 5px;
+
+    background-color: aqua;
+    display: flex;
+    
+    font-size: 15rem;
+    
+}

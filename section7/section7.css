@@ -1,0 +1,22 @@
+.section7 {
+    
+    
+    width: 190rem;
+    margin: auto;
+
+    display: grid;
+    grid-template-rows: 55rem 0rem;
+    gap: 1px;
+}
+
+
+.section7 div {
+    border: solid black;
+    border-radius: 5px;
+
+    background-color: indigo;
+    display: flex;
+    
+    font-size: 15rem;
+    
+}

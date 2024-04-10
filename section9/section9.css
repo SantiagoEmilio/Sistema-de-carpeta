@@ -1,0 +1,22 @@
+.section9 {
+    
+    
+    width: 190rem;
+    margin: auto;
+
+    display: grid;
+    grid-template-rows: 75rem 0rem;
+    gap: 1px;
+}
+
+
+.section9 div {
+    border: solid black;
+    border-radius: 5px;
+
+    background-color: violet;
+    display: flex;
+    
+    font-size: 15rem;
+    
+}

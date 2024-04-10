@@ -1,0 +1,22 @@
+.section15 {
+    
+    
+    width: 190rem;
+    margin: auto;
+
+    display: grid;
+    grid-template-rows: 50rem 0rem;
+    gap: 1px;
+}
+
+
+.section15 div {
+    border: solid black;
+    border-radius: 5px;
+
+    background-color: rgb(67, 0, 252);
+    display: flex;
+    
+    font-size: 15rem;
+    
+}

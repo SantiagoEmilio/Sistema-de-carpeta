@@ -1,0 +1,22 @@
+.section8 {
+    
+    
+    width: 190rem;
+    margin: auto;
+
+    display: grid;
+    grid-template-rows: 55rem 0rem;
+    gap: 1px;
+}
+
+
+.section8 div {
+    border: solid black;
+    border-radius: 5px;
+
+    background-color: slategrey;
+    display: flex;
+    
+    font-size: 15rem;
+    
+}
