@@ -1,0 +1,85 @@
+.secion_1{
+    height: 5rem;
+    display: flex;
+    align-items: center;
+}
+.caja1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 60rem;
+}
+.australia{
+    width: 49rem;
+    text-align: end;
+}
+.region{
+    padding: 3px;
+    background-color: rgba(218, 218, 218, 0.438);
+    border: 1px solid rgb(167, 166, 166);
+    border-radius: 5px;
+    width: 10rem;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+}
+.x{
+    width: 22rem;
+    text-align: end;
+}
+
+.seccion_2{
+
+    width: 97%;
+    height: 4rem;
+    text-align: end;
+}
+.secciones{
+    text-align: center;
+    margin-left: 80%;
+    width: 20rem;
+    height: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.seccion_3{
+    width: 100%;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.opciones{
+    width: 45rem;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+}
+.botones{
+    width: 30rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.boton1{
+    border: 1px solid black;
+    border-radius: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 14rem;
+    height: 3rem;
+}
+.boton2{
+    background-color: blueviolet;
+    color: rgb(255, 255, 255);
+    border-radius: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 14rem;
+    height: 3rem;
+}
